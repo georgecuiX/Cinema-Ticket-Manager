@@ -1,7 +1,4 @@
 """
-Assignment 1 Code Submission
-Name: George Cui
-Student ID: 501164481
 Program Description:
 The problem is calculating the total amount of revenue from selling tickets to a movie theatre.
 The user acts as the customers and in the end, the amount of revenue from all the transactions is outputted.
